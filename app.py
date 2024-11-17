@@ -2,7 +2,7 @@ import streamlit as st
 
 import google.generativeai as genai
 
-genai.configure(api_key="AIzaSyBzgBBnubCXaYzXtuDJlv68hd8WkxlrjXM")
+genai.configure(api_key="Your_API_Key")
 model = genai.GenerativeModel(model_name="gemini-1.5-flash")
 
 st.title("Data Science Tutor Application")
