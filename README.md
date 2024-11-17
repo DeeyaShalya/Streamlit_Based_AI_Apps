@@ -1,10 +1,10 @@
 # Streamlit_Based_AI_Apps
 
-#README: AI-Powered Apps Repository 🌟🤖
+README: AI-Powered Apps Repository 🌟🤖
 
 Welcome to the AI-Powered Apps Repository! This project showcases a series of cutting-edge applications powered by Generative AI to assist with education, conversations, and code reviews. Whether you’re a tech enthusiast, a developer, or someone simply exploring the world of AI, this repository has something exciting for you!
 
-#📜 Table of Contents
+📜 Table of Contents
 Project Overview
 Key Features
 Applications Included
@@ -13,12 +13,12 @@ Getting Started
 Supported Languages
 Future Enhancements
 
-#📖 Project Overview
+📖 Project Overview
 Artificial Intelligence is transforming the way we interact with technology. This repository highlights three AI-powered applications built with Streamlit and Google Generative AI (Gemini models). These apps are designed to simplify learning, improve conversations, and optimize programming workflows.
 
 Each app demonstrates the potential of Generative AI in creating meaningful user interactions. With intuitive designs and powerful AI capabilities, these apps cater to a broad audience, from students to professionals.
 
-#✨ Key Features
+✨ Key Features
 User-Friendly Interface:
 All applications are designed with simplicity in mind. You don’t need to be tech-savvy to use them.
 
@@ -38,7 +38,7 @@ Interactive and Responsive Design:
 
 Built using Streamlit, these apps are lightweight, interactive, and accessible via a web browser.
 
-#💻 Applications Included
+💻 Applications Included
 
 1. Data Science Tutor Application 📚
 
@@ -82,7 +82,7 @@ Modular Design:
 
 The apps are modular, meaning they can be enhanced or customized for specific needs without altering the core functionality.
 
-#🚀 Getting Started
+🚀 Getting Started
 
 Prerequisites
 
@@ -90,7 +90,7 @@ Python: Ensure you have Python 3.8 or higher installed.
 
 API Key: Obtain an API key from Google’s Generative AI platform to use the Gemini model.
 
-#🌐 Supported Languages
+🌐 Supported Languages
 
 Data Science Tutor: Supports queries across data science domains like statistics, machine learning, and data visualization.
 
@@ -106,7 +106,7 @@ C
 
 C++
 
-#🔮 Future Enhancements
+🔮 Future Enhancements
 
 We’re committed to improving these apps with exciting features in the pipeline:
 
@@ -122,4 +122,4 @@ Expanded Language Support: Include more programming languages for the Code Revie
 
 This repository is more than just a collection of apps—it’s a step towards making AI accessible and impactful for everyone. Whether you’re learning, coding, or chatting, we hope these apps inspire you to explore the endless possibilities of AI.
 
-#🌟 Don’t forget to star this repository if you find it helpful! 🌟
+🌟 Don’t forget to star this repository if you find it helpful! 🌟
