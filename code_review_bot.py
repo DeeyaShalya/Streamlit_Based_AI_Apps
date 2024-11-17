@@ -1,7 +1,7 @@
 import streamlit as st
 import google.generativeai as genai
 
-genai.configure(api_key="AIzaSyDbt5A9Vur1iFtBC-Mk5m6HTba_fGVf5VA")
+genai.configure(api_key="Your_API_Key")
 llm = genai.GenerativeModel("models/gemini-1.5-flash")
 code_review_bot = llm.start_chat(history=[])
 
